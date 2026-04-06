@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the coding portion of the homework assignments for AA 276: Principles of Safety-Critical Autonomy, Spring 2025.<br>
+This repository contains the coding portion of the homework assignments for AA 276: Principles of Safety-Critical Autonomy, Spring 2026.<br>
 To get started on a specific homework, see the homework handout on Canvas, as well as the `README.md` in the respective subfolder here, e.g., `./hw1/`.
 
 For any questions, please reach out to the course staff on Ed or via email.
